@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.a5773f749ff0b8eec123c0c2a47c3120?rik=3KfosYfOwhcEBQ&pid=ImgRaw&r=0)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/69719134/210140575-0f837ef8-a1db-4501-b2be-6ff6d9a14f55.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pehan Kannangara</h1>
 <h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
